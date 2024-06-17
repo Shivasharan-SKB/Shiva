@@ -1,3 +1,3 @@
 # Shiva
 This is my first Git Respository.
-Athore- Shivasharan Birajdar
+Author- Shivasharan Birajdar
